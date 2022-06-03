@@ -1,9 +1,13 @@
 {
   "files": {
     "main.css": "/UAS-PTI/static/css/main.7ac88656.css",
-    "main.js": "/UAS-PTI/static/js/main.a0b4196b.js",
+    "main.js": "/UAS-PTI/static/js/main.ea4554a3.js",
+    "static/js/845.26bf3aa2.chunk.js": "/UAS-PTI/static/js/845.26bf3aa2.chunk.js",
     "static/media/supermarket_morning.jpg": "/UAS-PTI/static/media/supermarket_morning.0dccbeb8282b21204ae8.jpg",
+    "static/media/campus_afternoon_hujan.png": "/UAS-PTI/static/media/campus_afternoon_hujan.0f46a03a4de83e18a349.png",
     "static/media/supermarket_evening.jpg": "/UAS-PTI/static/media/supermarket_evening.e9152051c24f1890c786.jpg",
+    "static/media/campus_evening_hujan.png": "/UAS-PTI/static/media/campus_evening_hujan.8e5d25c6dade1ec38849.png",
+    "static/media/campus_morning_hujan.png": "/UAS-PTI/static/media/campus_morning_hujan.1e19a35ac1696e07d2be.png",
     "static/media/supermarket_afternoon.jpg": "/UAS-PTI/static/media/supermarket_afternoon.fb098346692eac22dcdf.jpg",
     "static/media/supermarket_night.jpg": "/UAS-PTI/static/media/supermarket_night.db0413721fa236ceb9b7.jpg",
     "static/media/cafe_evening.jpg": "/UAS-PTI/static/media/cafe_evening.41c5d566c1ac23c78f33.jpg",
@@ -14,7 +18,6 @@
     "static/media/home_afternoon.jpg": "/UAS-PTI/static/media/home_afternoon.84b9f9cdecd2861564c7.jpg",
     "static/media/home_morning.jpg": "/UAS-PTI/static/media/home_morning.661229ca74567ff175c2.jpg",
     "static/media/cafe_morning.jpg": "/UAS-PTI/static/media/cafe_morning.37938eeae1c4b6dc4df9.jpg",
-    "static/media/campus_afternoon.jpg": "/UAS-PTI/static/media/campus_afternoon.6d763026876aa04acabe.jpg",
     "static/media/default_1.png": "/UAS-PTI/static/media/default_1.de258e368efeefc034d3.png",
     "static/media/campus_evening.jpg": "/UAS-PTI/static/media/campus_evening.8b204eefa4d1a1dcb7b5.jpg",
     "static/media/belajar_1.png": "/UAS-PTI/static/media/belajar_1.24ad1591c1dfe474fb87.png",
@@ -22,7 +25,6 @@
     "static/media/campus_morning.jpg": "/UAS-PTI/static/media/campus_morning.182e44aa82ab5b2fb915.jpg",
     "static/media/home_night.jpg": "/UAS-PTI/static/media/home_night.52fea1477bcc48492fb3.jpg",
     "static/media/main_1.png": "/UAS-PTI/static/media/main_1.29a94a70ffc127dbf3f8.png",
-    "static/media/campus_night.jpg": "/UAS-PTI/static/media/campus_night.fa1556fa72c334b1afec.jpg",
     "static/media/belajar_5.png": "/UAS-PTI/static/media/belajar_5.b592329ab2a4bd0ea35d.png",
     "static/media/makan_3.png": "/UAS-PTI/static/media/makan_3.c49b044a5809338af893.png",
     "static/media/main_3.png": "/UAS-PTI/static/media/main_3.9c5cc3eb858c4a72126b.png",
@@ -43,7 +45,11 @@
     "static/media/makan_2.png": "/UAS-PTI/static/media/makan_2.30845931efd6d1a5fbe8.png",
     "static/media/default_2.png": "/UAS-PTI/static/media/default_2.75eea952997a24e07f03.png",
     "static/media/belajar_2.png": "/UAS-PTI/static/media/belajar_2.c9240b4d6e8eeff5ba7b.png",
+    "static/media/tidur.m4a": "/UAS-PTI/static/media/tidur.5955010eb6e4638a3f5c.m4a",
+    "static/media/main.m4a": "/UAS-PTI/static/media/main.9989d8833b27376e19f3.m4a",
     "static/media/open-sans-all-400-normal.woff": "/UAS-PTI/static/media/open-sans-all-400-normal.3bc4108fa8f9a72e6ea5.woff",
+    "static/media/belajar.m4a": "/UAS-PTI/static/media/belajar.bf42bd86d645a6e7d3d7.m4a",
+    "static/media/makan.m4a": "/UAS-PTI/static/media/makan.41366e5df6de6e791b42.m4a",
     "static/media/open-sans-cyrillic-ext-400-normal.woff2": "/UAS-PTI/static/media/open-sans-cyrillic-ext-400-normal.acfea1d2352591b09c46.woff2",
     "static/media/open-sans-latin-400-normal.woff2": "/UAS-PTI/static/media/open-sans-latin-400-normal.4d140983c7c8c4a8c722.woff2",
     "static/media/open-sans-latin-ext-400-normal.woff2": "/UAS-PTI/static/media/open-sans-latin-ext-400-normal.8deeb3884c8ce11a3537.woff2",
@@ -54,10 +60,11 @@
     "static/media/open-sans-greek-ext-400-normal.woff2": "/UAS-PTI/static/media/open-sans-greek-ext-400-normal.6e872659616d9b8fb28c.woff2",
     "index.html": "/UAS-PTI/index.html",
     "main.7ac88656.css.map": "/UAS-PTI/static/css/main.7ac88656.css.map",
-    "main.a0b4196b.js.map": "/UAS-PTI/static/js/main.a0b4196b.js.map"
+    "main.ea4554a3.js.map": "/UAS-PTI/static/js/main.ea4554a3.js.map",
+    "845.26bf3aa2.chunk.js.map": "/UAS-PTI/static/js/845.26bf3aa2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7ac88656.css",
-    "static/js/main.a0b4196b.js"
+    "static/js/main.ea4554a3.js"
   ]
 }
