@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/UAS-PTI/static/css/main.7ac88656.css",
-    "main.js": "/UAS-PTI/static/js/main.494f72ea.js",
+    "main.js": "/UAS-PTI/static/js/main.a0b4196b.js",
     "static/media/supermarket_morning.jpg": "/UAS-PTI/static/media/supermarket_morning.0dccbeb8282b21204ae8.jpg",
     "static/media/supermarket_evening.jpg": "/UAS-PTI/static/media/supermarket_evening.e9152051c24f1890c786.jpg",
     "static/media/supermarket_afternoon.jpg": "/UAS-PTI/static/media/supermarket_afternoon.fb098346692eac22dcdf.jpg",
@@ -54,10 +54,10 @@
     "static/media/open-sans-greek-ext-400-normal.woff2": "/UAS-PTI/static/media/open-sans-greek-ext-400-normal.6e872659616d9b8fb28c.woff2",
     "index.html": "/UAS-PTI/index.html",
     "main.7ac88656.css.map": "/UAS-PTI/static/css/main.7ac88656.css.map",
-    "main.494f72ea.js.map": "/UAS-PTI/static/js/main.494f72ea.js.map"
+    "main.a0b4196b.js.map": "/UAS-PTI/static/js/main.a0b4196b.js.map"
   },
   "entrypoints": [
     "static/css/main.7ac88656.css",
-    "static/js/main.494f72ea.js"
+    "static/js/main.a0b4196b.js"
   ]
 }
