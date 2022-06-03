@@ -170,10 +170,8 @@ function AboutButton() {
 						<Text>Michael Danda Pratama (00000055630) as</Text>
 						<Text as="i">Algorithm Designer and Assets Designer</Text>
 						<br />
-						<AspectRatio maxW="560px" ratio={1}>
+						<AspectRatio>
 							<iframe
-								width="560"
-								height="315"
 								src="https://www.youtube.com/embed/lLVcpBeXVyU"
 								title="YouTube video player"
 								frameborder="0"
