@@ -2,6 +2,10 @@
 
 ## Kelompok 7
 
+Website game ini dapat diakses di https://geraldimanuelstudent.github.io/UAS-PTI-CLONE/#/
+
+> Untuk versi web menggunakan github pages ini, NewsAPI tidak dapat digunakan karena terjadi masalah pada license jika dihosting menggunakan github pages. Untuk melihat fitur NewsAPI silahkan build secara manual dengan menggunakan npm i dan npm start dibawah.
+
 ### Link Video Penjelasan Game
 
 https://youtu.be/lLVcpBeXVyU
