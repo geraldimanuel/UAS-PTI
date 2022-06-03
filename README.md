@@ -43,4 +43,5 @@ https://github.com/geraldimanuelstudent/UAS-PTI
 
 ### Instalation
 
-1. npm start
+1. npm i
+2. npm start
